@@ -11,13 +11,11 @@
 /* site larg title */
 .main-title{
   color: #121212;
-  text-align: center;
   font-size: 48px;
   font-weight: 800;
 }
 .sub-title{
   color: rgba(18, 18, 18, 0.60);
-  text-align: center;
   font-size: 16px;
   font-weight: 500;
 }

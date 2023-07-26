@@ -1,0 +1,19 @@
+<script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        clifford: '#da373d',
+                        'primary-color':'#F85559',
+                        'secondary-color':'#121212',
+                    },
+                    fontFamily:{
+                        'lato': ['Lato', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+
+
